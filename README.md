@@ -5,7 +5,7 @@ Spice up your life (and your git commits)
 
 From your repo folder, navigate to `.git/hooks` and run:
 
-	curl https://raw.githubusercontent.com/Stickerpants/emojihook/master/commit-msg > commit-msg
+	curl https://raw.githubusercontent.com/Stickerpants/emojihook/master/commit-msg > commit-msg && chmod +x commit-msg
 
 # Uninstall
 
