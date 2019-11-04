@@ -15,5 +15,4 @@ Delete the `commit-msg` hook:
 
 # TODO
 
-* Better windows support
-* `-m` commit style is bork
+* Better windows support (doesn't work if run from windows... because file handling differences?)

@@ -1,4 +1,4 @@
-#!python3
+#!/usr/bin/env python3
 
 def convert_to_sed(key, val):
 	return f"\t-e 's/{key}/{val}/g' \\"
