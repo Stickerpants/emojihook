@@ -10,21 +10,21 @@ From your repo folder, navigate to `.git/hooks` and run:
 # Emojis
 
 ```
-:trash:		🗑
-:spicy:		🔥
-:ok:		👌
-:bdb:		🍆
-:thinking:	🤔
-:orange:	🔶
-:gun:		🔫
-:brain:		🧠
-:zoop:		👉😎👉
-:sus:		🤨
-:no:		🚫
-:x:			❌
-:warning:	⚠️
-:checkbox:	✅
-:checkmark:	✔️
+:trash:            🗑
+:spicy:            🔥
+:ok:               👌
+:bdb:              🍆
+:thinking:         🤔
+:orange:           🔶
+:gun:              🔫
+:brain:            🧠
+:zoop:             👉😎👉
+:sus:              🤨
+:no:               🚫
+:x:                ❌
+:warning:          ⚠️
+:checkbox:         ✅
+:checkmark:        ✔️
 ```
 
 # Uninstall
