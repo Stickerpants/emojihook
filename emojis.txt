@@ -1,9 +1,8 @@
 :trash:       🗑
-:spicy:       🔥
-:ok:          👌
+:spicy:       🔥,🔶,📙
+:ok:          👌,🆗✋
 :bdb:         🍆
 :thinking:    🤔
-:orange:      🔶
 :gun:         🔫
 :brain:       🧠
 :zoop:        👉😎👉

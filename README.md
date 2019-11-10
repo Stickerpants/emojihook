@@ -11,11 +11,10 @@ From your repo folder, navigate to `.git/hooks` and run:
 
 ```
 :trash:       🗑
-:spicy:       🔥
-:ok:          👌
+:spicy:       🔥,🔶,📙
+:ok:          👌,🆗✋
 :bdb:         🍆
 :thinking:    🤔
-:orange:      🔶
 :gun:         🔫
 :brain:       🧠
 :zoop:        👉😎👉
