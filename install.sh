@@ -10,5 +10,5 @@ else
 	echo "Can't determine if this is a git repo. Writing to '$COMMIT_PATH', move it into your hooks folder!"
 fi
 
-echo "$COMMIT_HOOK" > COMMIT_PATH
-chmod +x COMMIT_PATH
+echo "$COMMIT_HOOK" > $COMMIT_PATH
+chmod +x $COMMIT_PATH
