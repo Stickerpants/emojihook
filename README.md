@@ -3,9 +3,9 @@ Spice up your life (and your git commits)
 
 # Installation
 
-From your repo folder, navigate to `.git/hooks` and run:
+From the root of your repo folder, run the following:
 
-	curl https://raw.githubusercontent.com/Stickerpants/emojihook/master/commit-msg > commit-msg && chmod +x commit-msg
+	sh -c "$(curl -fsSL https://raw.githubusercontent.com/Stickerpants/emojihook/master/install.sh)"
 
 # Emojis
 
