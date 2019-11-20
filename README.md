@@ -27,6 +27,7 @@ From the root of your repo folder, run the following:
 :checkbox:    ✅
 :checkmark:   ✔️
 :bug:         🐛
+:cowboy:      🤠,🐄👦
 ```
 
 # Uninstall
@@ -34,3 +35,7 @@ From the root of your repo folder, run the following:
 Delete the `commit-msg` hook:
 
 	rm .git/hooks/commit-msg
+
+# TODO
+
+De-duplicate the emoji list in `README.md` and `emojis.txt`

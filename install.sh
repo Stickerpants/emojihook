@@ -3,6 +3,8 @@
 COMMIT_HOOK=$(curl -fsSL "https://raw.githubusercontent.com/Stickerpants/emojihook/master/commit-msg")
 COMMIT_PATH="./commit-msg"
 
+# TODO: Metrics tagging?
+
 if [ -d ".git/hooks" ]; then
 	COMMIT_PATH=".git/hooks/commit-msg"
 	echo "Detected hooks folder, writing to '$COMMIT_PATH'..."
