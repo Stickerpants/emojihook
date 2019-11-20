@@ -19,6 +19,12 @@ RAND_IDX=$(($RANDOM % $ARR_SIZE))
 RAND_ELEM=${ARR[$RAND_IDX]}
 TEXT=$(echo "$TEXT" | sed -e "s/:ok:/$RAND_ELEM/g")
 
+ARR=("🤠" "🐄👦")
+ARR_SIZE=${#ARR[@]}
+RAND_IDX=$(($RANDOM % $ARR_SIZE))
+RAND_ELEM=${ARR[$RAND_IDX]}
+TEXT=$(echo "$TEXT" | sed -e "s/:cowboy:/$RAND_ELEM/g")
+
 echo "$TEXT" | sed \
 	-e 's/:trash:/🗑/g' \
 	-e 's/:bdb:/🍆/g' \

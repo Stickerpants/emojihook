@@ -13,3 +13,4 @@
 :checkbox:    ✅
 :checkmark:   ✔️
 :bug:         🐛
+:cowboy:      🤠,🐄👦
