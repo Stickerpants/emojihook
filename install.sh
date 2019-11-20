@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COMMIT_HOOK=$(curl "https://raw.githubusercontent.com/Stickerpants/emojihook/master/commit-msg")
+COMMIT_HOOK=$(curl -fsSL "https://raw.githubusercontent.com/Stickerpants/emojihook/master/commit-msg")
 COMMIT_PATH="./commit-msg"
 
 if [ -d ".git/hooks" ]; then
